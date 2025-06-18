@@ -1,5 +1,5 @@
 # Carbon AI
-AI-Powered Carbon Footprint Management
+AI-Powered Carbon Footprint Management:
 With the power of AI, we are in a new era of carbon footprint management, empowering businesses to achieve their sustainability goals with unprecedented efficiency and accuracy.
 
 The Rise of AI-Driven Solutions
